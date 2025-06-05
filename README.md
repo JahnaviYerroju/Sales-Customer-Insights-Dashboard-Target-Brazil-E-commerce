@@ -7,3 +7,5 @@ Extracted and cleaned data using SQL; calculated KPIs (Total Revenue, Total Orde
 Analyzed 99K+ orders and 16M BRL in revenue to identify peak sales months, high-performing product categories, and customer spending behavior.
 
 Published visual dashboard with filters and KPIs on Tableau Public to support business decisions around pricing and inventory strategy.
+
+Link To Tableau Public: https://public.tableau.com/views/SalesOverviewDashboard_17491503994120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
